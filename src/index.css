@@ -1,0 +1,11 @@
+li span {
+    height: 20px;
+    width: 60px;
+    padding-right: 100px;
+}
+
+li button {
+    border: 1px black solid;
+    border-radius: 3px;
+    padding: 5px 19px;
+}
